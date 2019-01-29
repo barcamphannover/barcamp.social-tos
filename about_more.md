@@ -8,8 +8,10 @@ Einige Dinge dulden wir allerdings nicht und bitten Euch, Beiträge und Nutzer z
 
 - Stalking, Doxxing, Belästigung
 - Rassismus, Sexismus, Beschimfungen
-- Diskriminierung jeglicher Geschlechter, sexueller Auffassungen oder Religionen
+- Diskriminierung jeglicher Geschlechter, sexueller Auffassungen und Religionen
 - Rechte und linke Propaganda
+- Pornographie
+- Werbung, Spam
 
 Weiterhin könnt ihr uns andere Mastodon Instanzen melden, die gegen die bezeichneten Punkte verstoßen, so dass wir bei Bedarf die Schnittstelle zu diesen Instanzen kappen können.
 
