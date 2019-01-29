@@ -13,7 +13,15 @@ Einige Dinge dulden wir allerdings nicht und bitten Euch, Beiträge und Nutzer z
 - Pornographie
 - Werbung, Spam
 
-Weiterhin könnt ihr uns andere Mastodon Instanzen melden, die gegen die bezeichneten Punkte verstoßen, so dass wir bei Bedarf die Schnittstelle zu diesen Instanzen kappen können.
+Weiterhin könnt ihr uns an andere Mastodon Instanzen melden, die gegen die bezeichneten Punkte verstoßen, so dass wir bei Bedarf die Schnittstelle zu diesen Instanzen kappen können.
+
+## Entscheidungen & Beschlüsse
+
+Die Entscheidung, wie unsere Moderatoren in den bezeichneten Fällen verfahren und wie sie die Richtlinien auslegen, liegt ausschließlich bei ihnen. Beschwerden bitte an unser Team per PN.
+
+## Meldewege
+
+Bitte nutzt zum Melden die Funktion unter dem jeweilgen Profil oder Toot. Bei schwerwiegenden und dringenden Problemen kontaktiert uns bitte per E-Mail unter contact@barcamp.social
 
 ## Datensicherheit
 
